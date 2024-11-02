@@ -31,6 +31,7 @@ body {
 .card1 .lupa {
     position: absolute;
     left: 130px;
+    bottom: 10px;
     height: 30px;
     width: 30px;
     border: none;
