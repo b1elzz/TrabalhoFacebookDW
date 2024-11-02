@@ -58,6 +58,7 @@ body {
 .card2 .menssager {
     position: absolute;
     right: 150px;
+    bottom: 10px;
     height: 30px;
     width: 30px;
     border: none;
@@ -76,10 +77,10 @@ span {
     color: white;
     background-color: rgb(255, 0, 0);
     border-radius: 50%;
-    height: 13px;
-    width: 18px;
+    height: 10px;
+    width: 13px;
     display: flex;
-    padding: 1px;
+    padding: 4px;
     align-items: center;
     justify-content: center;
 }
@@ -123,10 +124,10 @@ span {
     width: 20px;
 
     position: absolute;
-    right: 72px;
-    bottom: 3px;
-    width: 8px;
-    height: 8px;
+    right: 76px;
+    bottom: 7px;
+    width: 4px;
+    height: 4px;
     border: none;
     border-radius: 50%;
     display: flex;
